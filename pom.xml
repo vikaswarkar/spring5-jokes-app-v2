@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>spring5-jokes-app-v2</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>spring5-jokes-app-v2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -48,7 +48,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/vikaswarkar/spring5-jokes-app-v2.git</developerConnection>
-		<tag>spring5-jokes-app-v2-0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
